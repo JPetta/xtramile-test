@@ -2,9 +2,9 @@
 Assuming we have a large set of patients (500,000+) in a relational database, we want the user
 to type part of a patient name and the system returns a list of matched patients.
 
-o What data structure and search/matching algorithm to use and why?
-o How fast the search is using this algorithm and data structure?
-o Additional approaches from any point of view are acceptable to achieve best
+1. What data structure and search/matching algorithm to use and why?
+2. How fast the search is using this algorithm and data structure?
+3. Additional approaches from any point of view are acceptable to achieve best
 performance result
 
 ### Answers :
